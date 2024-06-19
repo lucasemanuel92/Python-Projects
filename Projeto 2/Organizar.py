@@ -1,3 +1,5 @@
+# Projeto para organizar uma determinada pasta de acordo com suas extensões
+
 import os
 from tkinter.filedialog import askdirectory # Escolhemos um pacote e importamos uma função dela
 

@@ -1,3 +1,5 @@
+# Projeto para juntar pdfs em determinada ordem
+
 import PyPDF2
 import os
 
